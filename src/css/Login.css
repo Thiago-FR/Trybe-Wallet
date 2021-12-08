@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.login-container {
+  background-color: white;
+  box-shadow: inset 0 0 1em rgb(197, 190, 190), 0 0 1em rgb(73, 73, 73);
+  height: 500px;
+  margin: 50px auto;
+  width: 350px;
+}
+
+.form-login {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-login-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.carteira-login-trybe {
+  height: 130px;
+  width: 200px;
+}
+
+.logo-login-trybe {
+  height: 70px;
+  margin-top: 40px;
+  width: 170px;
+}
+
+.input-login {
+  border: 1px solid rgb(206, 206, 206);
+  border-radius: 3px;
+  height: 30px;
+  margin-top: 12px;
+  outline: none;
+  padding-left: 25px;
+  width: 220px;
+}
+
+.input-password {
+  margin-left: 32px;
+}
+
+.input-login:focus {
+  border: 1px solid rgb(134, 134, 134);
+  box-sizing: border-box;
+  width: 246px;
+}
+
+.img-login {
+  background-image: url('../img/em.png');
+  background-position: 1px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+}
+
+.img-password {
+  background-image: url('../img/esqueceu-sua-senha.png');
+  background-position: 1px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+}
+
+.olho-login-false {
+  background-color: white;
+  background-image: url('../img/olho.png');
+  background-position: 5px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  height: 30px;
+  margin-left: 5px;
+  width: 30px;
+}
+
+.olho-login-true {
+  background-color: white;
+  background-image: url('../img/mostrar-senha.png');
+  background-position: 5px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  height: 30px;
+  margin-left: 5px;
+  width: 30px;
+}
+
+.btn-login {
+  background-color: rgb(39, 109, 238);
+  color: white;
+  cursor: pointer;
+  height: 30px;
+  margin-top: 15px;
+  width: 246px;
+}
+
+.btn-login:hover {
+  background-color: rgb(0, 89, 255);
+}
+
+.btn-login:disabled {
+  background-color: rgb(172, 201, 255);
+  cursor: auto;
+}
