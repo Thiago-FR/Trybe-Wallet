@@ -25,7 +25,7 @@ Neste projeto foi desenvolvido uma carteira de controle de gastos com conversor 
   - Visualizar o total de gastos convertidos para uma moeda de escolha;
 
 # Habilidades desenvolvidas neste projeto <a name="habilidades"></a>
-Neste projeto, verificamos se voce é capaz de:
+Neste projeto, foi desenvolvido as seguintes habilidades:
 
   * Criar um store Redux em aplicações React
 
