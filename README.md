@@ -1,67 +1,41 @@
-[PROJETO](https://trybe-wallet-six.vercel.app/)
 
-# Boas vindas ao repositório do projeto Trybe Wallet!
 
-# Sumário
+## Bem vindo ao repositório do projeto Arte com Pixels! <a name="boas-vindas-ao-repositorio-do-projeto-pixels-arte"></a>
 
-- [Boas vindas ao repositório do projeto Trybe Wallet!](#boas-vindas-ao-repositório-do-projeto-trybe-wallet)
-- [Sumário](#sumário)
+
+---
+
+## Sumário <a name="sumario"></a>
+
+- [Boas vindas ao repositório do projeto Trybe Wallet!](#boas-vindas-ao-repositorio-do-projeto-pixels-arte)
+- [Sumário](#sumario)
 - [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Habilidades Desenvolvidas](#habilidades)
 - [Para testar o projeto](#testar-o-projeto)
-- [Documentação da API utilizada](#documentacao-api)
+- [Protótipo](#prototipo)
+
+---
+
+## Habilidades desenvolvidas <a name="habilidades"></a>
+
+- Manipular o DOM
+
+- Manipular o Javascript
 
 ---
 
 ## O que foi desenvolvido <a name="o-que-foi-desenvolvido"></a>
 
-Uma aplicação em React que usa Redux como ferramenta de manipulação de estado.
-
-Através dessa aplicação, é possível realizar as operações básicas de criação e manipulação de um estado de redux.
-
-Neste projeto foi desenvolvido uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
-  - Adicionar, remover e editar um gasto;
-  - Visualizar uma tabelas com seus gastos;
-  - Visualizar o total de gastos convertidos para uma moeda de escolha;
-
-# Habilidades desenvolvidas neste projeto <a name="habilidades"></a>
-Neste projeto, foi desenvolvido as seguintes habilidades:
-
-  * Criar um store Redux em aplicações React
-
-  * Criar reducers no Redux em aplicações React
-
-  * Criar actions no Redux em aplicações React
-
-  * Criar dispatchers no Redux em aplicações React
-
-  * Conectar Redux aos componentes React
-
-  * Criar actions assíncronas na sua aplicação React que faz uso de Redux.
+- Uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Fo utilizado `javascript`, `css` e `html`.
 
 ---
 
-## Para testa o projeto <a name="testar-o-projeto"></a>
+## Para testar o projeto <a name="testar-o-projeto"></a>
 
 1. Clone o repositório
-  * `git clone git@github.com:Thiago-FR/trybe-wallet.git`
-  * Entre na pasta do repositório que você acabou de clonar:
-    * `cd trybe-wallet`
+  * `git clone git@github.com:tryber/sd-015-a-project-pixels-art.git`
+  * Entre na pasta do repositório que você acabou de clonar
 
-2. Instale as dependências e inicialize o projeto
-  * Instale as dependências:
-    * `npm install`
-  * Inicialize o projeto:
-    * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
+## Protótipo <a name="prototipo"></a>
 
-2. Ou click no link abaixo e veja funcionando.
-  * [PROJETO](https://trybe-wallet-six.vercel.app/)
----
-
-## Documentação da API de Cotações de Moedas <a name="documentacao-api"></a>
-
-A página _web_ irá consumir os dados da API do _awesomeapi API de Cotações_ para realizar a busca de câmbio de moedas. A buscas consulta o seguinte _endpoint_:
-
-- https://economia.awesomeapi.com.br/json/all
-
----
+![Protótipo](/trybewallet.gif)
