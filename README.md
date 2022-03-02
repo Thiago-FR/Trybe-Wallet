@@ -1,6 +1,6 @@
 
 
-## Bem vindo ao repositório do projeto Arte com Pixels! <a name="boas-vindas-ao-repositorio-do-projeto-pixels-arte"></a>
+## Bem vindo ao repositório do projeto Trybe Wallet! <a name="boas-vindas-ao-repositorio-do-projeto-pixels-arte"></a>
 
 
 ---
